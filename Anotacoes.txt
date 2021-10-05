@@ -1,0 +1,5 @@
+Git é um sistema de versionamento distribuído criado pelo Linus Torvald, criador do Linux.
+É muito útil para criar linhas do tempo de projetos e visualizar as suas alterações ao longo do tempo.
+Outra ferramenta muito importante são os repositórios remotos como GitHub, GitLab e etc.
+Com eles compartilhamos o nosso repositório Git para outras pessoas poderem ver e contribuir com o projeto
+de forma mais facilitada.
